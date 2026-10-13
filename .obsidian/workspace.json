@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/属性.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "属性"
+              "title": "README"
             }
           }
         ]
@@ -161,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/属性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,9 +213,9 @@
   },
   "active": "3b5472f5df7dc575",
   "lastOpenFiles": [
+    "HTML/标签.md",
     "README.md",
     "HTML/属性.md",
-    "HTML/标签.md",
     "HTML/asset/html_structure.png",
     "HTML/asset",
     "HTML",
