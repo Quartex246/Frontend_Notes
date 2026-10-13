@@ -191,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 279.9000244140625,
-    "collapsed": true
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b5472f5df7dc575",
+  "active": "67cd70784115b9b8",
   "lastOpenFiles": [
-    "HTML/标签.md",
+    "README.md.tmp.2500.4fc72df47849",
+    "HTML/4. 表单.md",
+    "HTML/3. 块元素与行内元素.md",
     "README.md",
-    "HTML/属性.md",
+    "HTML/1. 标签.md",
+    "HTML/2. 属性.md",
     "HTML/asset/html_structure.png",
     "HTML/asset",
     "HTML",
