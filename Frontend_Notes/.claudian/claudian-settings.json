@@ -1,0 +1,198 @@
+{
+  "userName": "",
+  "permissionMode": "auto",
+  "model": "haiku",
+  "effortLevel": "medium",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationLocale": "",
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "enabled": true,
+      "outputStyle": null,
+      "promptSuggestions": false,
+      "discoveredOutputStyles": [
+        "default",
+        "Proactive",
+        "Concise",
+        "Explanatory",
+        "Learning"
+      ],
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "visibleModels": [
+        "sonnet",
+        "fable",
+        "opus",
+        "haiku"
+      ],
+      "modelAliases": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "selectedModels": [
+        {
+          "value": "opus",
+          "label": "glm-5.3-flash",
+          "description": "Custom Opus model (1M context)",
+          "resolvedModel": "claude-opus-5[1M]",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "fable",
+          "label": "qwen3.8-flash",
+          "description": "Custom Fable model",
+          "resolvedModel": "claude-fable-5[1M]",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "sonnet",
+          "label": "deepseek-v4.1-flash",
+          "description": "Custom Sonnet model (1M context)",
+          "resolvedModel": "claude-sonnet-5[1M]",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "haiku",
+          "label": "deepseek-v4-flash",
+          "description": "Custom Haiku model",
+          "resolvedModel": "claude-haiku-4-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": []
+        }
+      ]
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "modelAliases": {},
+      "visibleModels": [],
+      "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
+      "responseVerbosity": "default",
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "selectedModels": []
+    },
+    "deepseek": {
+      "enabled": false,
+      "codeMode": false,
+      "presetPlugins": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "visibleModels": [],
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "selectedModels": []
+    },
+    "grok": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "thinkingOptionsByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    }
+  },
+  "settingsProvider": "claude",
+  "lastSelectedChatModel": {
+    "providerId": "claude",
+    "model": "sonnet"
+  },
+  "savedProviderModel": {
+    "claude": "haiku"
+  },
+  "savedProviderEffort": {
+    "claude": "medium"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderPermissionMode": {
+    "claude": "auto"
+  },
+  "pendingProviderSessionInvalidations": {},
+  "enableAutoScroll": true,
+  "showMessageTimestamps": false,
+  "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "enableZenMode": true,
+  "zenModePosition": null,
+  "enableDualPane": true,
+  "dualPaneSide": "right",
+  "restoreTabsOnStartup": true,
+  "skillsSynced": false,
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "sessionAutoArchiveAfter": "off",
+  "pinnedLinkedContentPaths": [],
+  "hiddenCommands": []
+}

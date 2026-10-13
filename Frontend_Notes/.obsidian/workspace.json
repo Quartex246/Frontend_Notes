@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/标签.md",
+                "file": "HTML/属性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "标签"
+              "title": "属性"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/标签.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/标签.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/标签.md",
+                "file": "HTML/属性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,12 +169,35 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "67cd70784115b9b8",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791887861388-nb0msyn",
+                      "conversationId": "conv-1791888170757-3nsjh0v5r"
+                    }
+                  ],
+                  "activeTabId": "tab-1791887861388-nb0msyn"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.9000244140625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,14 +207,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3b5472f5df7dc575",
   "lastOpenFiles": [
-    "HTML/文本标签.md",
-    "HTML/标签.md",
     "README.md",
+    "HTML/属性.md",
+    "HTML/标签.md",
     "HTML/asset/html_structure.png",
     "HTML/asset",
     "HTML",
