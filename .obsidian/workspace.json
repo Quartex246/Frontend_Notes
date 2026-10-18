@@ -161,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,11 +192,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 465.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67cd70784115b9b8",
+  "active": "3b5472f5df7dc575",
   "lastOpenFiles": [
-    "README.md.tmp.2500.4fc72df47849",
+    "README.md.tmp.21688.dba33bd7184c",
+    "CSS/2. 选择器.md",
+    "CSS/1. 语法与导入方式.md",
     "HTML/4. 表单.md",
+    "CSS",
     "HTML/3. 块元素与行内元素.md",
     "README.md",
+    "README.md.tmp.2500.4fc72df47849",
     "HTML/1. 标签.md",
     "HTML/2. 属性.md",
     "HTML/asset/html_structure.png",
