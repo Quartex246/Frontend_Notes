@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CSS/2. 选择器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2. 选择器"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "CSS/2. 选择器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,16 +214,19 @@
   },
   "active": "3b5472f5df7dc575",
   "lastOpenFiles": [
-    "README.md.tmp.21688.dba33bd7184c",
-    "CSS/2. 选择器.md",
+    "CSS/2. 选择器.md.tmp.10224.7c8d11a7e38f",
+    "CSS/2. 选择器.md.tmp.10224.8664bbc2cf65",
+    "CSS/2. 选择器.md.tmp.10224.a83fc08bc60a",
     "CSS/1. 语法与导入方式.md",
+    "HTML/2. 属性.md",
+    "CSS/2. 选择器.md",
     "HTML/4. 表单.md",
+    "README.md",
+    "README.md.tmp.21688.dba33bd7184c",
     "CSS",
     "HTML/3. 块元素与行内元素.md",
-    "README.md",
     "README.md.tmp.2500.4fc72df47849",
     "HTML/1. 标签.md",
-    "HTML/2. 属性.md",
     "HTML/asset/html_structure.png",
     "HTML/asset",
     "HTML",
