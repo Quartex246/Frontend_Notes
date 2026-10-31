@@ -48,7 +48,7 @@
       "selectedModels": [
         {
           "value": "opus",
-          "label": "glm-5.3-flash",
+          "label": "qwen3.8-flash",
           "description": "Custom Opus model (1M context)",
           "resolvedModel": "claude-opus-5[1M]",
           "reasoningMetadataResolved": true,
@@ -62,7 +62,7 @@
         },
         {
           "value": "fable",
-          "label": "qwen3.8-flash",
+          "label": "glm-5.3",
           "description": "Custom Fable model",
           "resolvedModel": "claude-fable-5[1M]",
           "reasoningMetadataResolved": true,
@@ -92,17 +92,12 @@
           "value": "haiku",
           "label": "deepseek-v4-flash",
           "description": "Custom Haiku model",
-          "resolvedModel": "claude-haiku-5-5",
+          "resolvedModel": "claude-haiku-4-5",
           "reasoningMetadataResolved": true,
-          "supportedEffortLevels": [
-            "low",
-            "medium",
-            "high",
-            "xhigh",
-            "max"
-          ]
+          "supportedEffortLevels": []
         }
-      ]
+      ],
+      "sessionEnvironmentHash": ""
     },
     "codex": {
       "enabled": false,
@@ -119,7 +114,8 @@
       "environmentHash": "",
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
-      "selectedModels": []
+      "selectedModels": [],
+      "sessionEnvironmentHash": ""
     },
     "deepseek": {
       "enabled": false,
@@ -165,6 +161,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     }
@@ -174,6 +171,7 @@
     "providerId": "claude",
     "model": "sonnet"
   },
+  "inlineEditModel": null,
   "savedProviderModel": {
     "claude": "haiku"
   },
@@ -188,6 +186,7 @@
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "enableZenMode": true,
