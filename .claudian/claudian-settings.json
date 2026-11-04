@@ -2,7 +2,7 @@
   "userName": "",
   "permissionMode": "auto",
   "model": "haiku",
-  "effortLevel": "medium",
+  "effortLevel": "low",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -48,7 +48,7 @@
       "selectedModels": [
         {
           "value": "opus",
-          "label": "qwen3.8-flash",
+          "label": "glm-5.3-flash",
           "description": "Custom Opus model (1M context)",
           "resolvedModel": "claude-opus-5[1M]",
           "reasoningMetadataResolved": true,
@@ -62,7 +62,7 @@
         },
         {
           "value": "fable",
-          "label": "glm-5.3",
+          "label": "qwen3.8-flash",
           "description": "Custom Fable model",
           "resolvedModel": "claude-fable-5[1M]",
           "reasoningMetadataResolved": true,
@@ -92,9 +92,15 @@
           "value": "haiku",
           "label": "deepseek-v4-flash",
           "description": "Custom Haiku model",
-          "resolvedModel": "claude-haiku-4-5",
+          "resolvedModel": "claude-haiku-5-5",
           "reasoningMetadataResolved": true,
-          "supportedEffortLevels": []
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
         }
       ],
       "sessionEnvironmentHash": ""
@@ -176,7 +182,7 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "medium"
+    "claude": "low"
   },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {
